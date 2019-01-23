@@ -1,0 +1,9 @@
+#include<stdio.h> 
+
+int main(){
+float a;
+long long int b;
+printf("hellow workld");
+return 0;
+}
+
