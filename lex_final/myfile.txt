@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+	int a = 5+6;
+	float f = 7.5;
+	printf("Hellow World\n");
+	printf("%d\n",a);
+	printf("%f\n",f);
+	return 0;
+}
